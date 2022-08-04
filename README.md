@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am Prabin Poulose , a passionate Devops engineer 💻 from 🇮🇳 with a strong interest and experience in Devops, MLops and Systems Engineering.
+I am Prabin Poulose , a passionate Devops engineer from 🇮🇳 with a strong interest and experience in Devops, MLops and Systems Engineering 💻 .
 
 
 💼 Technical Skills
